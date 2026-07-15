@@ -1,6 +1,6 @@
 # Trek It - Trekking Management System
 
-A Single Page Application (SPA) developed using **Flask**, **Vue.js**, **SQLite**, **Redis**, and **Celery** for managing trekking events, staff, and trek bookings.
+A Application developed using **Flask**, **Vue.js**, **SQLite**, **Redis**, and **Celery** for managing trekking events, staff, and trek bookings.
 
 ---
 
